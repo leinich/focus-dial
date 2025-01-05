@@ -1,7 +1,7 @@
 #pragma once
 
 #include "controllers/DisplayController.h"
-#include "controllers/LEDController.h"
+#include "controllers/LedController.h"
 #include "controllers/InputController.h"
 #include "controllers/NetworkController.h"
 #include <Preferences.h>
